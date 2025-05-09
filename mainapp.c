@@ -1,12 +1,12 @@
 /*
     Derleme örneği
-    gcc mainapp.c ayf_spi_app.c -o blabla
+    gcc mainapp.c spi_app.c -o blabla
  */
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
 #include <signal.h>
-#include "ayf_spi_app.h"
+#include "spi_app.h"
 
 #define SPI_MODE_0 1
 
