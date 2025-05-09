@@ -1,5 +1,5 @@
 #include <linux/spi/spidev.h>
-#include "ayf_spi_app.h"
+#include "spi_app.h"
 
 int spi_device_init(int device_count, ...) {
     va_list args;
