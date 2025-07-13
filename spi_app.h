@@ -15,7 +15,7 @@
  */
 
 /*!
- * \file ayf_pinconfig.sh
+ * \file pinconfig.sh
  * \brief Raspberry Pi4 SPI pin configuration.
  *
  * Pin control configurations for SPI and UART:
